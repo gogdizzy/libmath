@@ -1,5 +1,5 @@
-﻿#ifndef  __NUMBER_THEORY_H__
-#define  __NUMBER_THEORY_H__
+﻿#ifndef  __MATH_NUMBER_THEORY_H__
+#define  __MATH_NUMBER_THEORY_H__
 
 namespace  Math {
 
